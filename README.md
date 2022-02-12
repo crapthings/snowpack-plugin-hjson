@@ -1,3 +1,5 @@
+# snowpack-plugin-hjson
+
 ### How to install
 
 ```
@@ -25,4 +27,3 @@ npm i -D snowpack-plugin-hjson
 https://hjson.github.io/
 
 https://hjson.github.io/try.html
-# snowpack-plugin-hjson
