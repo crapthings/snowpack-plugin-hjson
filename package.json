@@ -1,0 +1,24 @@
+{
+  "name": "snowpack-plugin-hjson",
+  "description": "a snowpack plugin for hjson",
+  "version": "1.0.0",
+  "keywords": [
+    "snowpack",
+    "plugin",
+    "hjson",
+    "json"
+  ],
+  "license": "MIT",
+  "author": "crapthings",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crapthings/snowpack-plugin-hjson"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "hjson": "^3.2.2"
+  },
+  "peerDependencies": {
+    "snowpack": "3.x"
+  }
+}
